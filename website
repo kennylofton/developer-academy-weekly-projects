@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<head>
+    <body>
+        <title>Week 1 Project</title>
+
+        <h1>Simple web page</h1>
+        <h2>Project brief</h2>
+        <p>The aim of this project is to: </p> 
+        <ol>
+            Create a simple page to demonstrate basic html skills
+        </ol>
+        <ol>
+            Demonstrate knowledge of Git Version control
+        </ol>
+        <ol>
+            Demonstrate knowledge of the unix shell
+        </ol>
+      
+    
+
+        <h1>Description of the github workflow</h1>
+        <p>The git hub workflow allows teams to maintain, collaborate & edit code using git reposotories </p>
+        <img src = "https://juhakarna.fi/wp-content/uploads/2017/05/github-flow.jpg" 
+        alt = "A picture of the github workflow"
+        height = "200px" width = "600px">
+
+        <h2>What is a git branch?</h2>
+        <p>Git branch is a method used to track the code of the application you're working on while tracking it's versions</p>
+
+        <h2>what is a pull request?</h2>
+        <p>A pull request is a method used to discuss changes made to the code base before integration with main branch/project </p>
+
+        <h1>Description of the Unix shell</h1>
+        <p>The unix shell allows for easier management of files & directories without a GUI - as well as providing the ability to automate tasks</p>
+
+        <h2>How to list files in a directory</h2>
+        <p>By usig the "ls" phrase</p>
+
+        <h2>How to show and change the working directory</h2>
+        <p>
+            You can show and change the working directory by e.g. typing "cd Desktop", once you
+            select enter to change to the Desktop. Then type "ls" to list the files/folders in the directory
+        </p>
+        <img src = "Bash.png" 
+        alt = "git bash execution"
+        height = "150px" width = "300px">
+
+
+        <h2>How to create a new directory</h2>
+        <p>You can create a new directory using the keyword "mkdir"</p>
+
+        <h2>How to create new files</h2>
+        <p>You can create a new file using the keyword "nano"</p>
+
+        <h2>How to remove files</h2>
+        <p>You can remove files using the key word "rm"</p>
+
+
+    </body>
+</head>
